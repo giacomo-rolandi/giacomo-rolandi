@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Giacomo, I'm currently enrolled in a Junior Network Engineer course that include some different topics, from the network (CCNA) to firewalling (PaloAlto) and others (VMware, CyberOps).
+- I like everything within the IT world, in particular programming and networking. I also enjoy subjects like Math, Physics, and Astrophysics.
+- At the moment I'm studying Python and I would be extremely grateful if you could ask me to help you with programming some stuff.
