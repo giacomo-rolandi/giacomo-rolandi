@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giacomo</h1>
-<h3 align="center">I'm currently enrolled in a Junior Network Engineer course that include some different topics, from the network (CCNA) to firewalling (PaloAlto) and others (VMware, Ethical Hacking). I like everything within the IT world, in particular programming and networking. I also enjoy subjects like Math, Physics and Astrophysics.</h3>
+<h3 align="center">I'm currently enrolled in a Junior Network Engineer course that include some different topics, from the network (CCNA) to firewalling (PaloAlto) and others (VMware, Ethical Hacking). I like everything within the IT world (except the virtualizzation 🤮), in particular programming and cybersecurity. I also enjoy subjects like Math, Physics and Astrophysics.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gh2has72e3z35gfnkc6egc3dfshq99bp10d0sxce&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🌱 I’m currently learning **Python**
